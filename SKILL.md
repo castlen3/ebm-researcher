@@ -55,7 +55,7 @@ Guidelines:
 scripts/pubmed_search.py
 ```
 
-Full path: `/home/castlen3/.hermes/skills/openclaw-imports/ebm-researcher/scripts/pubmed_search.py`
+Full path: `<skill_dir>/scripts/pubmed_search.py` (resolve via your agent's skill directory)
 
 Usage:
 ```bash
